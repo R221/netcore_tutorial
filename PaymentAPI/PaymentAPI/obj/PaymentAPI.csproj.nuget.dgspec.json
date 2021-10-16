@@ -1,27 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Robert\\projects\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj": {}
+    "C:\\Users\\rcjam\\source\\repos\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Robert\\projects\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj": {
+    "C:\\Users\\rcjam\\source\\repos\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Robert\\projects\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj",
+        "projectUniqueName": "C:\\Users\\rcjam\\source\\repos\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj",
         "projectName": "PaymentAPI",
-        "projectPath": "C:\\Users\\Robert\\projects\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj",
-        "packagesPath": "C:\\Users\\Robert\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Robert\\projects\\PaymentAPI\\PaymentAPI\\obj\\",
+        "projectPath": "C:\\Users\\rcjam\\source\\repos\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj",
+        "packagesPath": "C:\\Users\\rcjam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rcjam\\source\\repos\\PaymentAPI\\PaymentAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Robert\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\rcjam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
